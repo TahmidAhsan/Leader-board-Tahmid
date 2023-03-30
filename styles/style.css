@@ -1,10 +1,18 @@
-.navbar img{
-    width: 40px;
-}
-.player img{
-    width: 56px;
-   }
 .body{
     background-color: #F3F1FF;
     ;
+}
+.navbar img{
+    width: 40px;
+}
+
+main{
+    max-width: 870px;
+}
+
+.player img{
+    width: 56px;
+}
+h3{
+    color: #562EFF ;
 }
