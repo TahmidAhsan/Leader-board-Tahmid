@@ -19,3 +19,11 @@ h3{
 .blog img{
     width: 177px;
 }
+.creator{
+    font-size: small;
+    padding-top: 20px;
+    color: #9F9F9F ;
+}
+.highlight{
+    color: #562EFF ;
+}
