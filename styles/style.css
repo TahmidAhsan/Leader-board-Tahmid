@@ -27,3 +27,20 @@ h3{
 .highlight{
     color: #562EFF ;
 }
+footer{
+    max-width: 870px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+h6{
+    color: #ED6B4F ;
+}
+.star img{
+    width:15px;
+}
+.clock img{
+    width: 20px;
+}
