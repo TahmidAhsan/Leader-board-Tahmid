@@ -44,3 +44,14 @@ h6{
 .clock img{
     width: 20px;
 }
+.least-content{
+    display: flex;
+    justify-content: space-between;
+}
+#five-star{
+    color: #AEAEAE; ;
+}
+.rating span{
+    float: right;
+    color: #AEAEAE;
+}
